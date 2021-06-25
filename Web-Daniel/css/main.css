@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap");
+
+/*Colors*/
+
+:root {
+  --theme-color: #04566c;
+  --text-color: #ffbf24;
+  --hoover-color: #217d9f;
+  --white-color: #ffffff;
+  --red-color: #851503;
+  --red-hoover: #c62a35;
+  --yellow-hover: #ebe046;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Archivo Black", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  list-style: none;
+}
