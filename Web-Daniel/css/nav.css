@@ -88,6 +88,8 @@ ul .cool-link:hover::after {
   -webkit-text-stroke: 0.3px black;
   cursor: pointer;
   padding-right: 15px;
+  font-size: 1rem;
+  font-weight: 600;
 }
 
 .boton-2 {
@@ -100,6 +102,8 @@ ul .cool-link:hover::after {
   -webkit-text-fill-color: var(--white-color);
   -webkit-text-stroke: 0.3px black;
   cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
 }
 
 .boton-2:hover {

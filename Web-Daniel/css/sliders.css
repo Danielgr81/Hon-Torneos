@@ -1,0 +1,28 @@
+/*carusel*/
+
+.section-3 {
+  margin-top: 80px;
+  background-color: sandybrown;
+  width: 100%;
+}
+
+.post-slider {
+  border: red 1px solid;
+}
+
+.post-wrapper,
+.post-slider {
+  border: red 1px dashed;
+  max-width: 1300px;
+  margin: 0 auto;
+  height: 350px;
+  overflow: hidden;
+}
+
+.post {
+  background-color: rosybrown;
+  display: inline-block;
+  width: 300px;
+  height: 350px;
+  margin: 0 10px;
+}

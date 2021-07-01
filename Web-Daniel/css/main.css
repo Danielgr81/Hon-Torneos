@@ -1,4 +1,10 @@
+/*Fonts*/
 @import url("https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap");
+
+/*Section-2*/
+/*font-family: 'Montserrat', sans-serif;*/
 
 /*Colors*/
 
@@ -10,6 +16,8 @@
   --red-color: #851503;
   --red-hoover: #c62a35;
   --yellow-hover: #ebe046;
+  --background: #f6f6f6;
+  --title-color: #020248;
 }
 
 * {
